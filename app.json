@@ -3,7 +3,7 @@
   "displayName": "webhouse.mobile",
   "expo": {
     "name": "webhouse.mobile",
-    "slug": "webhouse.mobile",
+    "slug": "webhouse",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
