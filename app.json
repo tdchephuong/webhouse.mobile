@@ -1,0 +1,12 @@
+{
+  "name": "webhouse.mobile",
+  "displayName": "webhouse.mobile",
+  "expo": {
+    "name": "webhouse.mobile",
+    "slug": "webhouse.mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
